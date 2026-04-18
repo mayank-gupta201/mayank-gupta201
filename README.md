@@ -7,7 +7,7 @@ I build scalable backend systems and AI-powered applications with a focus on **r
 
 ## 🧠 About Me
 
-* 🎓 MSc in AI/ML @ Scaler Neovarsity
+* 🎓 MS in AI/ML @ Scaler Neovarsity
 * ⚙️ Strong in **backend engineering + system design**
 * 🤖 Exploring **LLM agents, RAG pipelines, and evaluation systems**
 * 📈 Built systems handling **1K+ concurrent users (load-tested)**
