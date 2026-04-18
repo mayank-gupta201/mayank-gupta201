@@ -1,90 +1,104 @@
 # 👋 Hi, I'm Mayank Gupta
 
-🚀 **AI Systems Engineer | Backend & Distributed Systems**
-I build scalable backend systems and AI-powered applications with a focus on **real-time architectures, LLM agents, and system design**.
+🧠 **AI Systems Engineer — Backend, Distributed Systems, LLM Infrastructure**
+I design and build **production-grade systems** with focus on **scalability, performance, and AI-driven workflows**.
 
 ---
 
-## 🧠 About Me
+## ⚡ Engineering Focus
 
-* 🎓 MS in AI/ML @ Scaler Neovarsity
-* ⚙️ Strong in **backend engineering + system design**
-* 🤖 Exploring **LLM agents, RAG pipelines, and evaluation systems**
-* 📈 Built systems handling **1K+ concurrent users (load-tested)**
-* 💡 I care about **performance, scalability, and real-world architecture**
-
----
-
-## 🚀 Featured Projects
-
-### 🔥 CoreTask — Scalable Project Management System
-
-> Enterprise-grade system designed like Jira/Asana
-
-* ⚡ Redis caching → reduced API latency by **40–60%**
-* 🔄 Real-time sync using **WebSockets (sub-second updates)**
-* 🧠 Background workers (BullMQ) for async computation (<300ms latency)
-* 🏗️ Designed **30+ DB entities + 6-tier RBAC system**
-* 📊 Load tested with **1K+ users & 100+ concurrent operations**
+* 🏗️ Distributed Systems (caching, queues, real-time architectures)
+* ⚡ High-performance backend systems (low latency, high throughput)
+* 🤖 LLM Agents, RAG pipelines, and evaluation systems
+* 🔍 System design thinking applied to real-world products
 
 ---
 
-### 🤖 TicketFlowEnv — LLM Agent Evaluation System
+## 🚀 Featured Work
 
-> OpenEnv-based benchmark for testing AI agents in real workflows
+### 🔥 CoreTask — Distributed Project Management System
 
-* 🧩 Multi-step decision workflows (classify → act → resolve → close)
-* ⚖️ Deterministic reward system for **policy compliance & safety**
-* 🧠 Designed evaluation signals: accuracy, efficiency, correctness
-* 🐳 Containerized with **FastAPI + Docker**
-* 🎯 Simulates real-world customer support decision systems
+> Designed as a scalable alternative to Jira/Asana with real-time collaboration
+
+* ⚡ Reduced API latency by **40–60%** using Redis caching (TTL + invalidation strategy)
+* 🔄 Built real-time sync system using **WebSockets (sub-second updates)**
+* 🧠 Designed **event-driven background processing** with BullMQ (<300ms job latency)
+* 🏗️ Modeled **30+ relational entities** with optimized query patterns
+* 🔐 Implemented **6-tier RBAC with 20+ permission rules**
+* 📈 Load-tested at **1K+ users, 100+ concurrent operations**
+* 🧩 Cursor-based pagination → scalable to large datasets
+
+👉 Focus: **scalability, consistency, real-time systems**
+
+---
+
+### 🤖 TicketFlowEnv — LLM Agent Evaluation Infrastructure
+
+> Deterministic environment for evaluating multi-step AI agent workflows
+
+* 🧠 Designed **stateful environment with hidden evaluation signals**
+* ⚖️ Built **deterministic reward system** (no LLM grading)
+* 🔁 Modeled **multi-step decision workflows** (classification → action → resolution)
+* 🚫 Implemented **anti-reward-hacking safeguards**
+* 📊 Decomposed agent performance into interpretable signals
+* 🐳 Fully containerized (FastAPI + Docker)
+
+👉 Focus: **AI safety, evaluation, agent reliability**
+
+---
+
+## 🧠 System Design Highlights
+
+* Event-driven architecture (queues + async workers)
+* Cache design (TTL, invalidation, consistency trade-offs)
+* Real-time communication (WebSockets at scale)
+* Database design for high cardinality systems
+* AI system evaluation (not just usage)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 
-* Node.js, Express, FastAPI
-* Redis, BullMQ, WebSockets
-* PostgreSQL, MongoDB
+Node.js, Express, FastAPI
+Redis, BullMQ, WebSockets
+PostgreSQL, MongoDB
 
-### 🤖 AI / ML
+### AI / ML
 
-* LLMs, RAG Pipelines
-* LangChain, Agentic AI
-* NLP, Prompt Engineering
+LLMs, RAG Pipelines
+LangChain, Agent Systems
+Prompt Engineering
 
-### 🧰 Tools & DevOps
+### DevOps
 
-* Docker, GitHub Actions
-* AWS, Vercel
-* Git, Linux
+Docker, GitHub Actions
+AWS, Vercel
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mayank-gupta201\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mayank-gupta201\&show_icons=true)
 
-![Streak](https://streak-stats.demolab.com?user=mayank-gupta201\&theme=radical)
-
----
-
-## 🎯 What I'm Currently Building
-
-* 🧠 AI-powered systems combining **backend + LLM reasoning**
-* ⚡ High-performance APIs & distributed architectures
-* 🔍 Exploring **agent evaluation & safety systems**
+![Streak](https://streak-stats.demolab.com?user=mayank-gupta201)
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Work
 
-* 💼 LinkedIn: https://www.linkedin.com/in/mayank-gupta-8151bb273/
-* 📧 Email: mayankgoyal3005@gmail.com
-* 🌐 Portfolio: https://portfolio-website-pfs3.vercel.app/
+* Building **AI-powered backend systems**
+* Exploring **LLM agent reliability & evaluation**
+* Improving **system scalability and performance**
 
 ---
 
-⭐ *I focus on building systems that scale, not just projects that work.*
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/mayank-gupta-8151bb273/
+* Email: mayankgoyal3005@gmail.com
+
+---
+
+💡 *I build systems that scale under load, not just demos that work locally.*
