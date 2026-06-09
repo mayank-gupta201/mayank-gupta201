@@ -78,14 +78,6 @@ AWS, Vercel
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mayank-gupta201\&show_icons=true)
-
-![Streak](https://streak-stats.demolab.com?user=mayank-gupta201)
-
----
-
 ## 🎯 Current Work
 
 * Building **AI-powered backend systems**
